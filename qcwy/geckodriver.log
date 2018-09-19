@@ -1,0 +1,151 @@
+1536836700439	geckodriver	INFO	geckodriver 0.21.0
+1536836700448	geckodriver	INFO	Listening on 127.0.0.1:57053
+1536836703538	mozrunner::runner	INFO	Running command: "D:\\Software\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\CLL\\AppData\\Local\\Temp\\rust_mozprofile.nwgvdSkYkFcB"
+*** You are running in headless mode.
+1536836706340	Marionette	INFO	Listening on port 57066
+1536836706790	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536836706820	Marionette	DEBUG	[6442450945] Frame script loaded
+1536836706823	Marionette	DEBUG	[6442450945] Frame script registered
+1536837316942	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1536837316943	addons.xpi	ERROR	Failed to download system add-on fxmonitor@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1536837316943	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+1536844946088	geckodriver	INFO	geckodriver 0.21.0
+1536844946095	geckodriver	INFO	Listening on 127.0.0.1:54628
+1536844949258	mozrunner::runner	INFO	Running command: "D:\\Software\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\CLL\\AppData\\Local\\Temp\\rust_mozprofile.tjvtgV8JbfpM"
+*** You are running in headless mode.
+1536844951243	Marionette	INFO	Listening on port 54642
+1536844951370	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536844951403	Marionette	DEBUG	[6442450945] Frame script loaded
+1536844951418	Marionette	DEBUG	[6442450945] Frame script registered
+1536845218957	geckodriver	INFO	geckodriver 0.21.0
+1536845218964	geckodriver	INFO	Listening on 127.0.0.1:56315
+1536845222017	mozrunner::runner	INFO	Running command: "D:\\Software\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\CLL\\AppData\\Local\\Temp\\rust_mozprofile.Qccw676b7gkZ"
+*** You are running in headless mode.
+1536845223602	Marionette	INFO	Listening on port 56327
+1536845223638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536845224010	Marionette	DEBUG	[6442450945] Frame script loaded
+1536845224011	Marionette	DEBUG	[6442450945] Frame script registered
+1536845834910	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1536845834911	addons.xpi	ERROR	Failed to download system add-on fxmonitor@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1536845834913	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+
+1536845435512	geckodriver	INFO	geckodriver 0.21.0
+1536845435519	geckodriver	INFO	Listening on 127.0.0.1:57429
+1536845438573	mozrunner::runner	INFO	Running command: "D:\\Software\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\CLL\\AppData\\Local\\Temp\\rust_mozprofile.94ij0ivnZvrd"
+*** You are running in headless mode.
+1536845441584	Marionette	INFO	Listening on port 57442
+1536845441784	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536845441809	Marionette	DEBUG	[6442450945] Frame script loaded
+1536845441810	Marionette	DEBUG	[6442450945] Frame script registered
+1536845552502	geckodriver	INFO	geckodriver 0.21.0
+1536845552509	geckodriver	INFO	Listening on 127.0.0.1:58384
+1536845555574	mozrunner::runner	INFO	Running command: "D:\\Software\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\CLL\\AppData\\Local\\Temp\\rust_mozprofile.2AMIf70TXreF"
+*** You are running in headless mode.
+1536845557648	Marionette	INFO	Listening on port 58396
+1536845557693	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536845558172	Marionette	DEBUG	[6442450945] Frame script loaded
+1536845558173	Marionette	DEBUG	[6442450945] Frame script registered
+1536845673560	geckodriver	INFO	geckodriver 0.21.0
+1536845673584	geckodriver	INFO	Listening on 127.0.0.1:58783
+1536845676621	mozrunner::runner	INFO	Running command: "D:\\Software\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\CLL\\AppData\\Local\\Temp\\rust_mozprofile.eUlW9k7dkgvj"
+*** You are running in headless mode.
+1536845678631	Marionette	INFO	Listening on port 58795
+1536845678731	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536845679138	Marionette	DEBUG	[6442450945] Frame script loaded
+1536845679139	Marionette	DEBUG	[6442450945] Frame script registered
+1536846068174	geckodriver	INFO	geckodriver 0.21.0
+1536846068182	geckodriver	INFO	Listening on 127.0.0.1:60650
+1536846071234	mozrunner::runner	INFO	Running command: "D:\\Software\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\CLL\\AppData\\Local\\Temp\\rust_mozprofile.hbklwgkJWWLR"
+*** You are running in headless mode.
+1536846074022	Marionette	INFO	Listening on port 60667
+1536846074448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536846074474	Marionette	DEBUG	[6442450945] Frame script loaded
+1536846074475	Marionette	DEBUG	[6442450945] Frame script registered
+1536846184317	geckodriver	INFO	geckodriver 0.21.0
+1536846184324	geckodriver	INFO	Listening on 127.0.0.1:61085
+1536846187371	mozrunner::runner	INFO	Running command: "D:\\Software\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\CLL\\AppData\\Local\\Temp\\rust_mozprofile.tr4mD8iPlIVG"
+*** You are running in headless mode.
+1536846189260	Marionette	INFO	Listening on port 61097
+1536846189481	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536846189506	Marionette	DEBUG	[6442450945] Frame script loaded
+1536846189516	Marionette	DEBUG	[6442450945] Frame script registered
+1536846253374	geckodriver	INFO	geckodriver 0.21.0
+1536846253395	geckodriver	INFO	Listening on 127.0.0.1:61443
+1536846256430	mozrunner::runner	INFO	Running command: "D:\\Software\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\CLL\\AppData\\Local\\Temp\\rust_mozprofile.gBEWcBNiHPEz"
+*** You are running in headless mode.
+1536846258678	Marionette	INFO	Listening on port 61455
+1536846259143	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536846259168	Marionette	DEBUG	[6442450945] Frame script loaded
+1536846259169	Marionette	DEBUG	[6442450945] Frame script registered
+1536887682885	geckodriver	INFO	geckodriver 0.21.0
+1536887682900	geckodriver	INFO	Listening on 127.0.0.1:62725
+1536887685968	mozrunner::runner	INFO	Running command: "D:\\Software\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\CLL\\AppData\\Local\\Temp\\rust_mozprofile.Lhbo6yQ1PXE5"
+*** You are running in headless mode.
+1536887690704	Marionette	INFO	Listening on port 62737
+1536887690886	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536887690918	Marionette	DEBUG	[6442450945] Frame script loaded
+1536887690919	Marionette	DEBUG	[6442450945] Frame script registered
+1536887814878	geckodriver	INFO	geckodriver 0.21.0
+1536887814885	geckodriver	INFO	Listening on 127.0.0.1:64442
+1536887817957	mozrunner::runner	INFO	Running command: "D:\\Software\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\CLL\\AppData\\Local\\Temp\\rust_mozprofile.QDZwTbhmNwRW"
+*** You are running in headless mode.
+1536887819248	Marionette	INFO	Listening on port 64454
+1536887819569	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536887819596	Marionette	DEBUG	[6442450945] Frame script loaded
+1536887819597	Marionette	DEBUG	[6442450945] Frame script registered
+1536888179681	geckodriver	INFO	geckodriver 0.21.0
+1536888179689	geckodriver	INFO	Listening on 127.0.0.1:50077
+1536888182749	mozrunner::runner	INFO	Running command: "D:\\Software\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\CLL\\AppData\\Local\\Temp\\rust_mozprofile.q9OsbtjjB5Ae"
+*** You are running in headless mode.
+1536888184065	Marionette	INFO	Listening on port 50089
+1536888184367	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536888184392	Marionette	DEBUG	[6442450945] Frame script loaded
+1536888184393	Marionette	DEBUG	[6442450945] Frame script registered
+1536888402909	geckodriver	INFO	geckodriver 0.21.0
+1536888402917	geckodriver	INFO	Listening on 127.0.0.1:51918
+1536888405986	mozrunner::runner	INFO	Running command: "D:\\Software\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\CLL\\AppData\\Local\\Temp\\rust_mozprofile.yaBiTTrEuKmi"
+*** You are running in headless mode.
+1536888407628	Marionette	INFO	Listening on port 51930
+1536888408111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536888408135	Marionette	DEBUG	[6442450945] Frame script loaded
+1536888408136	Marionette	DEBUG	[6442450945] Frame script registered
+1536888680459	geckodriver	INFO	geckodriver 0.21.0
+1536888680467	geckodriver	INFO	Listening on 127.0.0.1:53829
+1536888683523	mozrunner::runner	INFO	Running command: "D:\\Software\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\CLL\\AppData\\Local\\Temp\\rust_mozprofile.p7imIvA0T3lm"
+*** You are running in headless mode.
+1536888686611	Marionette	INFO	Listening on port 53841
+1536888686737	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536888686761	Marionette	DEBUG	[6442450945] Frame script loaded
+1536888686762	Marionette	DEBUG	[6442450945] Frame script registered
+1536888751885	geckodriver	INFO	geckodriver 0.21.0
+1536888751892	geckodriver	INFO	Listening on 127.0.0.1:55436
+1536888754950	mozrunner::runner	INFO	Running command: "D:\\Software\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\CLL\\AppData\\Local\\Temp\\rust_mozprofile.RtYdfO0Jstly"
+*** You are running in headless mode.
+1536888757002	Marionette	INFO	Listening on port 55453
+1536888757069	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536888757094	Marionette	DEBUG	[6442450945] Frame script loaded
+1536888757097	Marionette	DEBUG	[6442450945] Frame script registered
+1536892152038	geckodriver	INFO	geckodriver 0.21.0
+1536892152045	geckodriver	INFO	Listening on 127.0.0.1:57630
+1536892155106	mozrunner::runner	INFO	Running command: "D:\\Software\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\CLL\\AppData\\Local\\Temp\\rust_mozprofile.aMfft4Qo7q3f"
+*** You are running in headless mode.
+1536892157053	Marionette	INFO	Listening on port 57639
+1536892157223	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536892157249	Marionette	DEBUG	[6442450945] Frame script loaded
+1536892157250	Marionette	DEBUG	[6442450945] Frame script registered
+1536892617547	geckodriver	INFO	geckodriver 0.21.0
+1536892617554	geckodriver	INFO	Listening on 127.0.0.1:58628
+1536892620609	mozrunner::runner	INFO	Running command: "D:\\Software\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\CLL\\AppData\\Local\\Temp\\rust_mozprofile.0AqR44qcLkde"
+*** You are running in headless mode.
+1536892622232	Marionette	INFO	Listening on port 58636
+1536892622724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536892622753	Marionette	DEBUG	[6442450945] Frame script loaded
+1536892622754	Marionette	DEBUG	[6442450945] Frame script registered
+1536893688708	geckodriver	INFO	geckodriver 0.21.0
+1536893688715	geckodriver	INFO	Listening on 127.0.0.1:59399
+1536893691783	mozrunner::runner	INFO	Running command: "D:\\Software\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\CLL\\AppData\\Local\\Temp\\rust_mozprofile.e3htPwa6M5wP"
+*** You are running in headless mode.
+1536893693408	Marionette	INFO	Listening on port 59407
+1536893693894	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536893693919	Marionette	DEBUG	[6442450945] Frame script loaded
+1536893693920	Marionette	DEBUG	[6442450945] Frame script registered
